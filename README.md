@@ -29,6 +29,8 @@ With urban areas claiming 81% of the total drivers, the average fare per driver 
 ### Total Fare by City Type for January to May 2019
 Plotting the three city types allows the analysis of peak weeks during the months of January to May 2019. January was a lower fare month for the urban cities. All three city types fares were the highest during the third week of February. The rural area hit another high point for fares during the first week of April. The suburban areas reached another peak time during the third week of April. While the urban areas fares stayed between about $1600 and $2500 for the four month period.
 
+![Weekly ride data](https://github.com/jcourt99/Pyber_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
+
 
 ## Summary
 The PyBer summary chart indicates a few discrepancies between the three different city type markets for the ride-share company. A few recommendations based on the analysis can be made:

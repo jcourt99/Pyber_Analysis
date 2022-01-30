@@ -8,6 +8,8 @@ The company, V. Isualize, asked for an analysis of six key metrics for their rid
 
 Using data from 120 cities and 2375 rides, the analysis totals for the key metrics are populated in the chart below:
 
+![PyBer Summary](https://github.com/jcourt99/Pyber_Analysis/blob/main/Resources/pyber_summary.PNG)
+
 
 ### Total Rides by City Type
 This metric shows a large discrepancy between the rural and urban areas use of a ride-share option. Rural cities account for only 5% of the total rides. While urban cities claim 69% of the total rides.
